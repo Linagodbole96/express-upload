@@ -8,8 +8,8 @@
     "bun:start": "bun run --watch bun-index.ts",
     "elysia:start": "bun run --watch elysia-index.ts",
     "hono:start": "bun run --watch hono-index.ts",
-    "buils":"tsc",
-    "start":"node dist/express-index.js"
+    "build": "tsc",
+    "start": "node dist/express-index.js"
   },
   "keywords": [],
   "author": "",
